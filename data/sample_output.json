@@ -1,0 +1,30 @@
+[
+    {
+        "comment_id": "example_1",
+        "text": "Sample comment output",
+        "posted_at": {
+            "timestamp": 1700000000,
+            "date": "2023-07-20 12:49:01",
+            "relative": "2d"
+        },
+        "is_edited": false,
+        "is_pinned": false,
+        "comment_url": "https://www.linkedin.com/feed/update/example/",
+        "comment_type": "comment",
+        "author": {
+            "name": "Jane Doe",
+            "headline": "Marketing Specialist",
+            "profile_url": "https://www.linkedin.com/in/janedoe/",
+            "profile_picture": "https://media.licdn.com/dms/image/C4E03AQExample"
+        },
+        "stats": {
+            "total_reactions": 5,
+            "reactions": {
+                "like": 4,
+                "appreciation": 1
+            },
+            "comments": 0
+        },
+        "post_input": "example"
+    }
+]
